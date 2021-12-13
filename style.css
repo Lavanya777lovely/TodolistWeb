@@ -148,4 +148,8 @@
         margin:auto;
         margin-left:50px;
 }
+.decor{
+    text-decoration:none;
+    color: red;
+}
 
